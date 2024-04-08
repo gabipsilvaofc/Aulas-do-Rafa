@@ -1,0 +1,18 @@
+h1{
+    color: aquamarine;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    background-color: aqua;
+    height: 25px;
+    text-align: left;
+}
+
+img{
+    height: 333px;
+    border: 1px solid black;
+}
